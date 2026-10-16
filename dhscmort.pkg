@@ -1,0 +1,11 @@
+v 3
+d 'DHSCMORT': DHS Childhood Mortality Indicators, Tables, and Graphical Visualisations
+d
+d Synthetic cohort estimation of neonatal, infant, child, and under-five
+d mortality using DHS birth histories.
+d
+d Distribution-Date: 20261016
+d Author: Mluleki Tsawe, North-West University
+d
+f dhscmort.ado
+f dhscmort.sthlp

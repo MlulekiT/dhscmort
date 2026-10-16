@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Tsawe"
+    given-names: "Mluleki"
+    affiliation: "Population Dynamics Sub-programme, Population and Health Research Entity, North-West University, Mahikeng Campus, South Africa"
+title: "dhscmort: A Stata command for DHS childhood mortality estimation and visualisation"
+version: 0.0.5
+date-released: 2026-10-16
+url: "https://github.com/MlulekiT/dhscmort"
+keywords:
+  - stata
+  - dhs
+  - childhood mortality
+  - demography
+  - synthetic cohort

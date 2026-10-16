@@ -31,7 +31,6 @@ Tsawe, M. (2026). dhscmort: A Stata command for DHS childhood mortality estimati
 ---
 
 ## Author
-
 **Mluleki Tsawe**  
 Population Dynamics Sub-programme  
 Population and Health Research Entity  

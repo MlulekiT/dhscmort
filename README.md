@@ -21,6 +21,23 @@ It provides automated weighted mortality estimation, generates individual-level 
 - **Data generation**: Automatically saves binary mortality indicator variables (`mrt_*`) directly into the active dataset for subsequent survey-weighted regression modeling.
 
 ---
+## Cite this repository
+
+Tsawe, M. (2026). dhscmort: A Stata command for DHS childhood mortality estimation and visualisation (Version 0.0.5). GitHub repository: https://github.com/MlulekiT/dhscmort
+
+[Download citation 💾](https://github.com/MlulekiT/dhscmort/releases/download/v0.0.5/dhscmort.ris)
+
+---
+
+## Author
+
+**Mluleki Tsawe**  
+Population Dynamics Sub-programme  
+Population and Health Research Entity  
+North-West University, Mahikeng Campus  
+South Africa  
+
+GitHub: [@MlulekiT](https://github.com/MlulekiT)
 
 ## Installation
 

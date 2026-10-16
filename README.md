@@ -1,6 +1,6 @@
 # dhscmort
 
-Stata command for DHS childhood mortality estimation and visualization.
+Stata command for DHS childhood mortality estimation and visualisation.
 
 ## Installation
 

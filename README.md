@@ -40,10 +40,7 @@ South Africa
 
 ## Installation
 
-You can install `dhscmort` directly in Stata using any of the following command:
-
-### Direct installation
-Run this single command in Stata to download and install the package immediately (_copy it to your Stata command line_):
+You can install `dhscmort` directly in Stata using the following command (_copy it to your Stata command line_):
 
 ```stata
 net install dhscmort, from("https://raw.githubusercontent.com/MlulekiT/dhscmort/main") replace

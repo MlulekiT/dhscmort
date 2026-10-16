@@ -24,7 +24,7 @@ It provides automated weighted mortality estimation, generates individual-level 
 
 ## Cite this repository
 
-Tsawe, M. (2026). dhscmort: A Stata command for DHS childhood mortality estimation and visualisation (Version 0.0.5). GitHub repository: https://github.com/MlulekiT/dhscmort
+Tsawe, M. (2026). dhscmort: A Stata command for DHS childhood mortality estimation and visualisation (Version 0.0.5).
 
 [Download citation 💾](https://github.com/MlulekiT/dhscmort/releases/download/v0.0.5/dhscmort.ris)
 

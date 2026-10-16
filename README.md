@@ -28,6 +28,8 @@ Tsawe, M. (2026). dhscmort: A Stata command for DHS childhood mortality estimati
 
 [Download citation 💾](https://github.com/MlulekiT/dhscmort/releases/download/v0.0.5/dhscmort.ris)
 
+---
+
 ## Author
 
 **Mluleki Tsawe**  

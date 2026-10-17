@@ -49,8 +49,7 @@
 Install `dhscmort` directly from GitHub:
 
 ```stata
-net install dhscmort, ///
-    from("https://raw.githubusercontent.com/MlulekiT/dhscmort/main") replace
+net install dhscmort, from("https://raw.githubusercontent.com/MlulekiT/dhscmort/main") replace
 ```
 
 Open the help file after installation:

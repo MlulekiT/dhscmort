@@ -296,7 +296,7 @@ If you use `dhscmort` in research, please cite the version used:
 Tsawe, M. (2026). dhscmort: A Stata command for DHS childhood mortality estimation and visualisation (Version 0.0.5) [Computer software]. GitHub. https://github.com/MlulekiT/dhscmort
 ```
 
-[Download Citation (.RIS) 💾](https://github.com/MlulekiT/dhscmort/releases/download/v0.0.5/dhscmort.ris)
+[Download citation (.RIS) 💾](https://github.com/MlulekiT/dhscmort/releases/download/v0.0.5/dhscmort.ris)
 
 ---
 

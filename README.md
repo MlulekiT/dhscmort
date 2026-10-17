@@ -119,9 +119,7 @@ dhscmort INDICATORS (Years: 0-4)
 ### Produce and export a graph
 
 ```stata
-dhscmort indicators, by(v024) graph(hbar) ///
-    title("Childhood mortality by region") ///
-    name(gr1) export("mortality_region.png")
+dhscmort indicators, by(v024) graph(hbar) title("Childhood mortality by region") name(gr1) export("mortality_region.png")
 ```
 
 ---
@@ -214,21 +212,16 @@ dhscmort indicators, by(v025)                // place of residence
 ### Graphs and visualisations
 
 ```stata
-dhscmort indicators, by(v024) graph(bar) angle(45) ///
-    title("Childhood mortality by region") ///
-    name(gr001) export("indicators_region_bar.png")
+dhscmort indicators, by(v024) graph(bar) angle(45) title("Childhood mortality by region") name(gr001) export("indicators_region_bar.png")
 ```
 
 ```stata
-dhscmort indicators, by(v024) graph(hbar) ///
-    title("Childhood mortality by region") ///
-    name(gr002) export("indicators_region_hbar.png")
+dhscmort indicators, by(v024) graph(hbar) title("Childhood mortality by region") name(gr002) export("indicators_region_hbar.png")
 ```
 
 ```stata
-dhscmort U5MR, by(v106) graph(bar) scheme(s2color) ///
-    title("Under-five mortality by maternal education") ///
-    name(gr003) export("U5MR_maternal_education.png")
+dhscmort U5MR, by(v106) graph(bar) scheme(s2color) title("Under-five mortality by maternal education") ///
+name(gr003) export("U5MR_maternal_education.png")
 ```
 
 ---

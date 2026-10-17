@@ -3,7 +3,7 @@
 *! Author: Mluleki Tsawe
 
 program define dhscmort
-    version 15
+    version 14
 
     syntax anything [if] [in], ///
         [by(varname) ///

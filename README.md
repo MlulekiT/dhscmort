@@ -114,7 +114,7 @@ dhscmort INDICATORS (Years: 0-4)
 +-------------------------------------------------------------------+
 ```
 
-*NNMR, PNNMR, IMR, CMR, and U5MR are conventionally reported per 1,000 live births. The child mortality rate (CMR) represents the probability of dying between ages 1 and 5 years among children who survive to age 12 months.*
+*NNMR, PNNMR, IMR, CMR, and U5MR are conventionally reported per 1 000 live births. The child mortality rate (CMR) represents the probability of dying between ages 1 and 5 years among children who survive to age 12 months.*
 
 ### Produce and export a graph
 
@@ -151,7 +151,7 @@ The indicators are mathematically linked:
 U5MR = 1000 × [1 − (1 − IMR/1000) × (1 − CMR/1000)]
 ```
 
-This relationship ensures that under-five mortality reflects the cumulative probability of death before age five. In the example output it gives approximately 150.10 per 1,000.
+This relationship ensures that under-five mortality reflects the cumulative probability of death before age five. In the example output it gives approximately 150.10 per 1 000.
 
 ### Reference periods
 

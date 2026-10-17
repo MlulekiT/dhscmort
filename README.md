@@ -212,11 +212,13 @@ dhscmort indicators, by(v025)                // place of residence
 ### Graphs and visualisations
 
 ```stata
-dhscmort indicators, by(v024) graph(bar) angle(45) title("Childhood mortality by region") name(gr001) export("indicators_region_bar.png")
+dhscmort indicators, by(v024) graph(bar) angle(45) title("Childhood mortality by region") name(gr001) ///
+export("indicators_region_bar.png")
 ```
 
 ```stata
-dhscmort indicators, by(v024) graph(hbar) title("Childhood mortality by region") name(gr002) export("indicators_region_hbar.png")
+dhscmort indicators, by(v024) graph(hbar) title("Childhood mortality by region") name(gr002) ///
+export("indicators_region_hbar.png")
 ```
 
 ```stata

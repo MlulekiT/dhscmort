@@ -70,7 +70,7 @@ help dhscmort
 
 ---
 
-## Quick Start
+## Quick start
 
 The following example uses the official DHS model dataset `ZZBR62FL`, available from the [DHS Program Model Datasets](https://dhsprogram.com/data/Download-Model-Datasets.cfm) page (and will work with any DHS BR file).
 

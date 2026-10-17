@@ -2,7 +2,18 @@ TY  - COMP
 AU  - Tsawe, Mluleki
 TI  - dhscmort: A Stata command for DHS childhood mortality estimation and visualisation
 PY  - 2026
-ET  - Version 0.0.5
-UR  - https://github.com/MlulekiT/dhscmort
+DA  - 2026
+ET  - 0.0.5
 PB  - GitHub
+AD  - Population Dynamics Sub-programme, Population and Health Research Entity, North-West University, Mahikeng Campus, South Africa
+M3  - Stata command
+AB  - dhscmort estimates neonatal, post-neonatal, infant, child and under-five mortality from Demographic and Health Surveys (DHS) Birth Recode datasets using the DHS synthetic cohort approach. It produces weighted mortality estimates, supports disaggregation by background characteristics, generates bar charts and creates binary mortality variables for further analysis.
+KW  - childhood mortality
+KW  - under-five mortality
+KW  - Demographic and Health Surveys
+KW  - synthetic cohort
+KW  - Stata
+KW  - demography
+LA  - en
+UR  - https://github.com/MlulekiT/dhscmort
 ER  -

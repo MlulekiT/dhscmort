@@ -346,6 +346,6 @@ Population and Health Research Entity (PHRE)
 
 North-West University, Mahikeng Campus, South Africa
 
-- 🌐 [Personal Website](https://mlulekit.github.io)
-- 💻 [GitHub Profile](https://github.com/MlulekiT)
+- 🌐 [Personal website](https://mlulekit.github.io)
+- 💻 [GitHub profile](https://github.com/MlulekiT)
 - 🆔 [ORCID: 0000-0002-0580-5508](https://orcid.org/0000-0002-0580-5508)

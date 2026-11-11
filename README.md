@@ -3,6 +3,7 @@
 [![Stata](https://img.shields.io/badge/Stata-14%2C16%2C17-blue)](https://www.stata.com/)
 [![Version](https://img.shields.io/github/v/release/MlulekiT/dhscmort)](https://github.com/MlulekiT/dhscmort/releases)
 [![Downloads](https://img.shields.io/github/downloads/MlulekiT/dhscmort/total?color=blue)](https://github.com/MlulekiT/dhscmort/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/MlulekiT/dhscmort?style=social)](https://github.com/MlulekiT/dhscmort/stargazers)
 [![Issues](https://img.shields.io/github/issues/MlulekiT/dhscmort)](https://github.com/MlulekiT/dhscmort/issues)
 [![Licence](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
 

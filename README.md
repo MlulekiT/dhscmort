@@ -5,6 +5,7 @@
 [![Downloads](https://img.shields.io/github/downloads/MlulekiT/dhscmort/total?color=blue)](https://github.com/MlulekiT/dhscmort/releases)
 [![GitHub Stars](https://img.shields.io/github/stars/MlulekiT/dhscmort?style=social)](https://github.com/MlulekiT/dhscmort/stargazers)
 [![Issues](https://img.shields.io/github/issues/MlulekiT/dhscmort)](https://github.com/MlulekiT/dhscmort/issues)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MlulekiT.dhscmort&left_color=gray&right_color=blue)](https://github.com/MlulekiT/dhscmort)
 [![Licence](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
 
 `dhscmort` estimates neonatal, post-neonatal, infant, child, and under-five mortality rates from Demographic and Health Surveys (DHS) **Birth Recode (`BR`) datasets** using the standard DHS synthetic cohort approach. It produces weighted mortality estimates, supports disaggregation by background characteristics, generates publication-ready bar charts, and creates binary mortality variables (`mrt_*`) in the active dataset for further statistical analysis.
